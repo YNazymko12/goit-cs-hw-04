@@ -1,0 +1,3 @@
+Debugging can often take more time than writing the initial code. 
+An efficient program minimizes resource usage and maximizes performance. 
+Mastering the art of coding involves understanding both programming logic and user needs.
